@@ -1,4 +1,4 @@
-package com.musikanimal.localitynyc;
+package com.musikanimal.locality.nyc;
 
 import org.junit.Test;
 

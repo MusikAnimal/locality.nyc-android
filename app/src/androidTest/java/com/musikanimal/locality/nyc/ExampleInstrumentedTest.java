@@ -1,4 +1,4 @@
-package com.musikanimal.localitynyc;
+package com.musikanimal.locality.nyc;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.musikanimal.localitynyc", appContext.getPackageName());
+        assertEquals("com.musikanimal.locality.nyc", appContext.getPackageName());
     }
 }
