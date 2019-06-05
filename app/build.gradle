@@ -4,10 +4,10 @@ android {
     compileSdkVersion 28
     defaultConfig {
         applicationId "com.musikanimal.locality.nyc"
-        minSdkVersion 19
+        minSdkVersion 20
         targetSdkVersion 28
-        versionCode 1
-        versionName "1.0"
+        versionCode 20000
+        versionName "2.0.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
